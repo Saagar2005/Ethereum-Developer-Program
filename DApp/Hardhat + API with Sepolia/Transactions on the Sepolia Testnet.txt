@@ -1,0 +1,18 @@
+My Metamask account address - 0x0Fce88318C57BA12338d42fCa2E26E029a30c4e8
+
+Deployed the Certificate contract on Sepolia test network:
+
+1) Contract address - 0xbaa857062b450C846e936dFc19B00C99667aE138
+
+2) Deployment transaction hash - 0xb986cf8b067cb75d6bdbd2ffd469c20620fc2a09a44ff76ea0fc97eaab8edcc9
+
+3) Issued a certificate with ID 101 - transaction hash - 0xa52a1c609cee7caecd19f4c40e7f7570f8f16c6e63c6ad17324dff84ae3545b6
+
+4) Viewed the certificate with ID 101 - Got the following output:
+	[
+    "Saagar",
+    "EDP",
+    "A",
+    "09-06-2024"
+	]
+5) An exception was raised and transaction was reverted, as expected, when I tried to issue another certificate with same ID 101.

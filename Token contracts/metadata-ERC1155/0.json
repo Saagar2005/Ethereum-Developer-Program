@@ -1,0 +1,16 @@
+{
+    "id":"0",
+    "description": "A balloon",
+    "image": "https://green-adequate-lemming-915.mypinata.cloud/ipfs/QmThpqk3USiCzG4phHMVFZSDr9EsJYGASX7xhwq8Qa25aZ",
+    "name": "RedBalloon",
+    "attributes": [
+      {
+        "trait_type": "Colour(s)",
+        "value": "Red"
+      },
+      {
+        "trait_type": "How many balloons?",
+        "value": "1"
+      }
+    ]
+}

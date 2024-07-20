@@ -1,0 +1,16 @@
+{
+    "id":"1",
+    "description": "A set of 5 balloons with 2 different colours",
+    "image": "https://green-adequate-lemming-915.mypinata.cloud/ipfs/QmaNYRMnfFiUkDd24QHNbHXt6XLwEW5T2tL4zSReQoUMig",
+    "name": "Balloons",
+    "attributes": [
+      {
+        "trait_type": "Colour(s)",
+        "value": "Pink, Yellow"
+      },
+      {
+        "trait_type": "How many balloons?",
+        "value": "5"
+      }
+    ]
+}

@@ -1,0 +1,20 @@
+My Metamask Accounts: 
+0x0Fce88318C57BA12338d42fCa2E26E029a30c4e8
+0x969bf400d9ce33D0FeA35feA31531e8193c590af
+
+ERC-20:
+Contract address: 0xB4AB13D4937cC5a7C72a4f98432268F0edf60761
+Token name: IIT Kanpur
+Symbol: IITK
+Decimal: 18
+
+ERC-721:
+Contract address: 0x74025Decc10577b4137CBc0937C9d3b712c49295
+Token name: IIT Kanpur
+Symbol: IITK
+View in Opensea: https://testnets.opensea.io/assets/sepolia/0x74025Decc10577b4137CBc0937C9d3b712c49295/0
+
+ERC-1155:
+Contract address: 0x049ab33FC4679356Ab51422205F95222E4a90d16
+Collection name: GameOfBalloons
+View in OpenSea: https://testnets.opensea.io/assets/sepolia/0x049ab33FC4679356Ab51422205F95222E4a90d16/0
